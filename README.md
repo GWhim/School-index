@@ -18,3 +18,6 @@
 
 该起始页用于学校相关项目展示，起始页基于docsify 搭建，项目模板搭建在服务器通过nginx转发
 
+> 后台系统默认登陆账户为admin@qq.com 初始密码[_!$rvg/cswKkI!o
+>
+> 前台系统默认登陆账户为index@qq.com 初始密码t8Id{|YwfM!/~~gb
