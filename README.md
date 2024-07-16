@@ -21,3 +21,5 @@
 > 后台系统默认登陆账户为admin@qq.com 初始密码[_!$rvg/cswKkI!o
 >
 > 前台系统默认登陆账户为index@qq.com 初始密码t8Id{|YwfM!/~~gb
+
+![测试图](https://gitee.com/gwhhhh/imgurl/raw/master/img/2024-6-28  17:04:42-1719565482664.png)
